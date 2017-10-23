@@ -42,3 +42,8 @@ For each assignment you will create a subdirectory in your ```cs112``` directory
 
 7. **Updating:** Anytime you modify or extend your code make sure to (1) **add** any  new files (step 4); (2) **commit** changes (step 5); and (3) **verify** your submission (step 6).
   
+### Video
+
+The following video walks you through the process described above.
+
+[![svn](https://i.ytimg.com/vi/6jP6k71qe0c/0.jpg)](https://www.youtube.com/watch?v=6jP6k71qe0c)
